@@ -1,4 +1,0 @@
-Python,Top
-SQL,Top
-PowerBI,Top
-Tableau,Med
